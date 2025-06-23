@@ -109,7 +109,7 @@ Use Postman or your frontend to test endpoints:
 
 ---
 
-## 👨‍💻 Contributor
+## 👨‍💻 Author
 
 | ![Animesh Nilawar](https://avatars.githubusercontent.com/AnimeshNilawar?s=100) |
 |:--:|
